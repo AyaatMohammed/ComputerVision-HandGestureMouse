@@ -1,4 +1,9 @@
 # 🖐️ ComputerVision-HandGestureMouse
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python )
+![OpenCV](https://img.shields.io/badge/OpenCV-27A4F2?style=for-the-badge&logo=opencv&logoColor=white )
+![MediaPipe](https://img.shields.io/badge/MediaPipe-007BFF?style=for-the-badge&logo=google&logoColor=white )
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge )
+
 
 An advanced Python application that transforms your webcam into a powerful, gesture-controlled mouse. This project uses `OpenCV` for video capture and `MediaPipe` for real-time hand tracking to control your computer's cursor with natural hand movements.
 
