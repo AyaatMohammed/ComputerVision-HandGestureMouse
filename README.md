@@ -58,3 +58,11 @@ An advanced Python application that transforms your webcam into a powerful, gest
 | **Click**           | 🤏 (Thumb + Index)       | Pinch your thumb and index finger together.                                 |
 | **Drag & Drop**     | 🤏 (Thumb + Pinky)       | Pinch your thumb and pinky finger to "grab". Move your hand, then release.  |
 | **Scrolling**       | ✌️ (Peace Sign)          | Make a peace sign. The distance between your fingers controls scroll speed. |
+
+
+## 📫. Contact Me
+
+Created by **Ayaat Mohammed**. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/ayat-mohammed-b58856361 )
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white )](https://github.com/AyaatMohammed )
